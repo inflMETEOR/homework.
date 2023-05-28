@@ -1,0 +1,13 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Home2Button{
+    width: 350px;
+
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
